@@ -20,6 +20,8 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+> **Extended roles**: DevOps Engineer, Security Lead, UX Designer, Support Specialist, and Data Analyst are also key contributors. See [`octoacme-roles-and-personas.md`](octoacme-roles-and-personas.md) for full role descriptions and [`octoacme-cross-functional-handoffs-checklist.md`](octoacme-cross-functional-handoffs-checklist.md) for when and how each role participates across the lifecycle.
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan

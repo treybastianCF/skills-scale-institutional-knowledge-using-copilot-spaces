@@ -19,6 +19,8 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
 
+> **Role involvement**: confirm which extended roles (DevOps Engineer, Security Lead, UX Designer, Support Specialist, Data Analyst) are needed at initiation. See the [Cross-Functional Hand-offs Checklist — Initiation](octoacme-cross-functional-handoffs-checklist.md#1-initiation-hand-offs) for trigger conditions and required outputs.
+
 ## Project One-pager Template
 - Project name:
 - Problem statement:

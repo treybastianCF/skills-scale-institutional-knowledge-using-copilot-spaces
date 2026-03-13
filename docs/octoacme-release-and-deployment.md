@@ -15,6 +15,8 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Rollback / mitigation plan documented
 - Smoke tests prepared
 
+> **Role sign-offs required before production**: Security Lead (security-sensitive changes), UX Designer (user-facing UI changes), Support Specialist (customer-impacting changes), and DevOps Engineer (deployment plan and rollback). See the [Cross-Functional Hand-offs Checklist — Pre-Release](octoacme-cross-functional-handoffs-checklist.md#4-pre-release-hand-offs) for the complete pre-release gate checklist.
+
 ## Deployment Checklist
 - [ ] Deployment window scheduled (if needed)
 - [ ] Backup or snapshot (if applicable)
