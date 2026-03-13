@@ -41,3 +41,5 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+
+> **Cross-functional planning**: ensure backlog includes tasks for infrastructure setup (DevOps), security review (Security Lead), design specs (UX Designer), support documentation (Support Specialist), and instrumentation (Data Analyst). Use the [Cross-Functional Hand-offs Checklist — Planning](octoacme-cross-functional-handoffs-checklist.md#2-planning-hand-offs) to confirm required inputs and sign-offs.

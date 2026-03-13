@@ -40,3 +40,5 @@ Incident Communication
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
 - For security incidents, follow the security incident runbook and notify Security on-call
+
+> **Extended escalation paths**: the [Cross-Functional Hand-offs Checklist — Escalation Quick Reference](octoacme-cross-functional-handoffs-checklist.md#escalation-quick-reference) covers escalation paths for Security Lead, DevOps Engineer, UX Designer, Support Specialist, and Data Analyst roles.

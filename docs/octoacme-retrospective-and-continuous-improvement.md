@@ -31,3 +31,5 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Continuous Improvement Culture
 - Measure impact of action items
 - Celebrate improvements and make small, iterative changes
+
+> **Cross-functional retrospective inputs**: Support Specialist shares support ticket trends, Data Analyst presents outcome metrics vs. success criteria, and DevOps/Security contribute reliability and security hardening items. See the [Cross-Functional Hand-offs Checklist — Retrospective](octoacme-cross-functional-handoffs-checklist.md#6-retrospective-hand-offs) for the full checklist.

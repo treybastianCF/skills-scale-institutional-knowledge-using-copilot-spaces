@@ -38,3 +38,5 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+
+> **Cross-functional execution**: security-sensitive PRs require Security Lead approval; UI PRs require UX Designer approval; environment blockers are owned by the DevOps Engineer. See the [Cross-Functional Hand-offs Checklist — Execution](octoacme-cross-functional-handoffs-checklist.md#3-execution-hand-offs) for a full list of hand-off triggers and owners.
